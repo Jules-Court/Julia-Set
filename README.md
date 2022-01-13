@@ -40,6 +40,4 @@ Il vous faudra utiliser les touches :
 
 
 
-TRAN An-Tiêm 21964523
-COURTIN Jules 71800254
 
